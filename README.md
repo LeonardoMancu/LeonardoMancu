@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou o @LeonardoMancu
+- 👀 Eu estou interessado em um estágio na área de desenvolvimento de sistemas  
+- 🌱 E estou estudando agora Análise e desenvolvimento de sistemas na PUC-GO 
